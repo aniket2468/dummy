@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Scientific Calculator",
+  title: "Scientific Calculator - OG",
   description: "A beautiful scientific calculator built with Next.js and Tailwind CSS",
 };
 
